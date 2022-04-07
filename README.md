@@ -31,7 +31,6 @@
 1. [Написание исходного кода](code-style.md)
 1. [Внесение изменений](contributing.md)
 1. [Работа с системой контроля версий](working-with-vcs.md)
-1. [Подготовка релиза](preparing-release.md)
 
 [1]: https://erlang.org
 [2]: https://rebar3.org
